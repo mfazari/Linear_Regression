@@ -1,5 +1,4 @@
-# Neural_Network
+# Linear Regression
 
 
-
-A simple neural network built in Java based on Python libraries
+Linear Regression in JavaScript/Node.js
