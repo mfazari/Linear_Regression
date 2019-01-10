@@ -1,4 +1,4 @@
-# Linear Regression
+# Machine Learning
 
 
-Linear Regression in JavaScript/Node.js
+Machine Learning stuff. Mainly written in Python, casually in other languages
