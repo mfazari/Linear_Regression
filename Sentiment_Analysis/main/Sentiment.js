@@ -1,6 +1,4 @@
-var Sentiment = require('main/Sentiment');
+var Sentiment = require('Sentiment');
 var sentiment = new Sentiment();
-var result = sentiment.analyze("You are so amazing");
-console.log(result.score)
-
-
+var result = sentiment.analyze("You are an asshole");
+console.log(result.score);
